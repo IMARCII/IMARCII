@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **marci@minezone.hu**
+- 📫 How to reach me **marci@marci.wtf**
 
-- ⚡ Fun fact **I love L**
+- ⚡ Fun fact **I love D**
 
 
 <h3 align="left">Languages and Tools:</h3>
